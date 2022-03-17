@@ -1,8 +1,9 @@
 <?php 
-class portofolio extends Controller
+
+class Controller
+
 {
-    public function index()
-    {
-        echo "ini controller potofolio";
-    }
+    //kita selesaikan nanti
 }
+
+
